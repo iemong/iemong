@@ -2,7 +2,10 @@
 
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iemong&count_private=true&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats-taupe-psi.vercel.app/api?username=iemong&count_private=true&show_icons=true&theme=dracula)
+
+
+[![Top Langs](https://github-readme-stats-taupe-psi.vercel.app/api/top-langs/?username=iemong&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--START_SECTION:waka-->
