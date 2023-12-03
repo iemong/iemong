@@ -2,6 +2,9 @@
 
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iemong&count_private=true)
+
+
 <!--START_SECTION:waka-->
 
 ```txt
