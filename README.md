@@ -2,15 +2,8 @@
 
 ### Hi there 👋
 
-<img
-  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
-  alt="Alternative Text"
-/>
-Example:
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/iemong" target="_blank" rel="noopener noreferrer"><img alt="iemongのLAPRASでのスコアは次の通りです: エンジニアリング: 4 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.43 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4&b=3.43&i=3.43&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
