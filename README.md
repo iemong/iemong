@@ -11,11 +11,11 @@ I'm working at note.inc.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       19 hrs 12 mins  █████████████████▒░░░░░░░   69.32 %
-Vue.js           5 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.31 %
-JSON             1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-Text             55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-JavaScript       27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+TypeScript       20 hrs 30 mins  █████████████████▒░░░░░░░   68.74 %
+Vue.js           5 hrs 19 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
+JSON             1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+Text             53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+JavaScript       33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->
