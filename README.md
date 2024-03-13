@@ -6,6 +6,7 @@ This is my personal motto. It means that "Don't compete. Capitalize on your uniq
 Welcome to my page! I’m iemong.   
 Frontend developer from Kanagawa Japan.   
 I'm working at note.inc.
+I'm interested in Next.js,Cloudflare and Web3
 
 ### Recent Activity
 <!--START_SECTION:waka-->
