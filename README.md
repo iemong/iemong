@@ -12,11 +12,11 @@ I'm interested in Next.js,Cloudflare and Web3
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        21 hrs 42 mins  █████████████████████▒░░░   85.99 %
-Vue.js            1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-JavaScript        43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-Text              38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-Git               15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+TypeScript        22 hrs 27 mins  █████████████████████▒░░░   85.66 %
+Vue.js            1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+JavaScript        43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Text              40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Ruby              27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->
