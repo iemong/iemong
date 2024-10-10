@@ -31,5 +31,5 @@ JSON              2 mins          ░░░░░░░░░░░░░░░�
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/iemong" target="_blank" rel="noopener noreferrer"><img alt="iemongのLAPRASでのスコアは次の通りです: エンジニアリング: 4.01 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.46 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.01&b=3.43&i=3.46&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 10/9/2024, 12:08:34 AM</p>
+Last Updated on 10/10/2024, 12:08:28 AM</p>
 <!--END_SECTION:lapras-card-->
