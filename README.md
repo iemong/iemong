@@ -12,7 +12,11 @@ I'm interested in Next.js,Cloudflare and Web3
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Project Details   0 secs          ██████████████████▒░░░░░░   73.53 %
+Docker            0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
+JavaScript        0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+TSConfig          0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+Markdown          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
 ```
 
 <!--END_SECTION:waka-->
