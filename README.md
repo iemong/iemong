@@ -26,6 +26,6 @@ No activity tracked
 
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/iemong" target="_blank" rel="noopener noreferrer"><img alt="iemongのLAPRASでのスコアは次の通りです: エンジニアリング: 4.02 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.47 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.02&b=3.43&i=3.47&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 1/22/2025, 12:08:53 AM</p>
+<p ><a href="https://lapras.com/public/iemong" target="_blank" rel="noopener noreferrer"><img alt="iemongのLAPRASでのスコアは次の通りです: エンジニアリング: 4.03 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.48 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.03&b=3.43&i=3.48&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 1/23/2025, 12:08:30 AM</p>
 <!--END_SECTION:lapras-card-->
