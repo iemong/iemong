@@ -12,9 +12,8 @@ I'm interested in Next.js,Cloudflare and Web3
 <!--START_SECTION:waka-->
 
 ```txt
-Python       10 mins         ███████████████████████░░   92.53 %
-SQL          0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+TypeScript   0 secs          ████████████████████████▓   98.91 %
+Python       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
