@@ -12,9 +12,8 @@ I'm interested in Next.js,Cloudflare and Web3
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 mins          ██████████████████████▒░░   89.59 %
-YAML         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-Vue.js       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Vue.js   0 secs          ███████████████████████▓░   94.70 %
+YAML     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
 ```
 
 <!--END_SECTION:waka-->
