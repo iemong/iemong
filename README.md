@@ -12,8 +12,7 @@ I'm interested in Next.js,Cloudflare and Web3
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js   0 secs          ███████████████████████▓░   94.70 %
-YAML     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
