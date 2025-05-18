@@ -31,5 +31,5 @@ textmate     0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/iemong" target="_blank" rel="noopener noreferrer"><img alt="iemongのLAPRASでのスコアは次の通りです: エンジニアリング: 3.87 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.51 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.87&b=3.43&i=3.51&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 5/17/2025, 12:09:51 AM</p>
+Last Updated on 5/18/2025, 12:10:56 AM</p>
 <!--END_SECTION:lapras-card-->
